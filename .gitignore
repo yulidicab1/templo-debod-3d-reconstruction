@@ -1,0 +1,24 @@
+.DS_Store
+__MACOSX/
+*.tmp
+*.log
+.cache/
+.vscode/
+
+# COLMAP heavy internal files
+*.db
+
+# Intermediate COLMAP variants
+*_original*.ply
+*_relaxed*.ply
+*_photo.ply
+*_photometric_original*.ply
+*_photometric_relaxed*.ply
+*_mesh_poisson_photometric*.ply
+
+# Nerfstudio training checkpoints
+*.ckpt
+step-*
+
+# Nerfstudio model files kept locally only
+04_nerfstudio_model/
