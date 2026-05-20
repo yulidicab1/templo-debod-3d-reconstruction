@@ -52,5 +52,4 @@ The folder `06_results_screenshots/` contains screenshots of the main outputs of
 * **Yulicenia Diaz Cabrera**
 
 ## Final preview
-
-<img src="05_results/gaussian_splat_view.png" alt="Final preview" width="700">
+![Final preview](05_results/gaussian_splat_view.png)
