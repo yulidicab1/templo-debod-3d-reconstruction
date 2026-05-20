@@ -41,8 +41,6 @@ The folder `06_results_screenshots/` contains screenshots of the main outputs of
 
 - COLMAP sparse reconstruction
 - Gaussian Splatting visualization
-- Nerfstudio render
-- SuGaR mesh extraction
 - Final mesh visualization
 
 ## Notes
@@ -50,6 +48,3 @@ The folder `06_results_screenshots/` contains screenshots of the main outputs of
 
 ## Author
 * **Yulicenia Diaz Cabrera**
-
-## Final preview
-![Final preview](05_results/gaussian_splat_view.png)
