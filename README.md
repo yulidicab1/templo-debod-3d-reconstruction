@@ -53,4 +53,4 @@ The folder `06_results_screenshots/` contains screenshots of the main outputs of
 
 ## Final preview
 
-![Final reconstruction preview](gaussian_splat_view.jpg)
+<img src="05_results/gaussian_splat_view.png" alt="Final preview" width="700">
